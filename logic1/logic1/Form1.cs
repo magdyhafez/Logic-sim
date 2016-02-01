@@ -138,7 +138,6 @@ namespace logic1
             pts[2].X = w / 2 - 50;
             pts[2].Y = h / 2 + 30;
             g.DrawPolygon(p, pts);
-            //g.DrawLine(p, w / 2 - 50, h / 2 - 15, w / 2 -100, h / 2 - 15);
             g.DrawLine(p, w / 2 - 50, h / 2 , w / 2 - 100, h / 2 );
             g.DrawEllipse(p,w/2+50,h/2-5,10,10);
             g.DrawLine(p, w / 2 + 60, h / 2, w / 2 + 90, h / 2);
