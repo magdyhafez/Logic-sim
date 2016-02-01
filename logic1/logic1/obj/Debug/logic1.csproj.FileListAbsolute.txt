@@ -7,3 +7,12 @@ C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.Proper
 C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
 C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.exe
 C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Aka\Desktop\logic simulator\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Aka\Desktop\logic simulator\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Aka\Desktop\logic simulator\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Aka\Desktop\logic simulator\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Aka\Desktop\logic simulator\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Aka\Desktop\logic simulator\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Aka\Desktop\logic simulator\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Aka\Desktop\logic simulator\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Aka\Desktop\logic simulator\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache

@@ -38,8 +38,7 @@ namespace logic1
             g.DrawLine(p, w / 2 , h / 2 +20, w / 2 + 50, h / 2 + 20);
             g.DrawLine(p, w / 2 , h / 2+60, w / 2 + 50, h / 2 + 60);
             g.DrawLine(p, w / 2 + 100, h / 2 +40, w / 2 + 120, h / 2 + 40);
-
-            p.Dispose();
+            
             
         }
 
@@ -125,8 +124,26 @@ namespace logic1
             p.Dispose();
         }
 
-       
+        private void NOT_Click(object sender, EventArgs e)
+        {
+            Graphics g = this.CreateGraphics();
+            int w = this.ClientSize.Width;
+            int h = this.ClientSize.Height;
+            Pen p = new Pen(Color.DarkBlue);
+            Point[] pts = new Point[3];
+            pts[0].X = w / 2 + 50;
+            pts[0].Y = h / 2;
+            pts[1].X = w / 2 - 50;
+            pts[1].Y = h / 2 - 30;
+            pts[2].X = w / 2 - 50;
+            pts[2].Y = h / 2 + 30;
+            g.DrawPolygon(p, pts);
+            //g.DrawLine(p, w / 2 - 50, h / 2 - 15, w / 2 -100, h / 2 - 15);
+            g.DrawLine(p, w / 2 - 50, h / 2 , w / 2 - 100, h / 2 );
+            g.DrawEllipse(p,w/2+50,h/2-5,10,10);
+            g.DrawLine(p, w / 2 + 60, h / 2, w / 2 + 90, h / 2);
+            p.Dispose();
 
-    
+        }
     }
 }
