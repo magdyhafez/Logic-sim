@@ -45,7 +45,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="..\..\Magdy trial 3\logic1\Form1.cs">
-      <SubType>Form</SubType>
       <Link>Form1.cs</Link>
     </Compile>
     <Compile Include="..\..\Magdy trial 3\logic1\Form1.Designer.cs">

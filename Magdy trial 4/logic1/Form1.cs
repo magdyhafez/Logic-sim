@@ -18,6 +18,7 @@ namespace logic1
         {
             InitializeComponent();
         }
+
         private Point MouseDownLocation;
        private void Form1_Load(object sender, EventArgs e)
         {
@@ -32,16 +33,28 @@ namespace logic1
         private void AND_Click(object sender, EventArgs e)
         {
             Button AND2 = new Button();
-            AND2.Location = new Point(150, 150);
-            AND2.Visible = true;
-            Controls.Add(AND2); 
-
-
+            /* AND2.Visible = true;
+             AND2.Location = new Point(150, 150);
+             AND2.Height = 40;
+             AND2.Width = 300;*/
+           AND2.Location = new Point(120, 100);
+            AND2.Text = AND.Text;
+            AND2.Size = AND.Size;
+            AND2.BackgroundImage = AND.BackgroundImage;
+            AND2.BackgroundImageLayout = AND.BackgroundImageLayout;
+            Controls.Add(AND2); // Add the new button to the form
         }
 
         private void OR_Click(object sender, EventArgs e)
         {
-            drawinglocation = "OR";
+            Button OR2 = new Button();
+            OR2.Location= new Point(200, 200);
+            OR2.Text = OR.Text;
+            OR2.Size = OR.Size;
+            OR2.BackgroundImage = OR.BackgroundImage;
+            OR2.BackgroundImageLayout = OR.BackgroundImageLayout;
+            Controls.Add(OR2);
+            ;
         }
 
         private void NOR_Click(object sender, EventArgs e)

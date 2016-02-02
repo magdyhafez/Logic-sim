@@ -1,0 +1,36 @@
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2\logic1\bin\Debug\logic1.exe.config
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2\logic1\obj\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2\logic1\obj\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2\logic1\bin\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2\logic1\bin\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 3\logic1\bin\Debug\logic1.exe.config
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 3\logic1\obj\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 3\logic1\obj\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 3\logic1\bin\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 3\logic1\bin\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 3\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 3\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 3\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 3\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\bin\Debug\logic1.exe.config
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\obj\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\obj\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\bin\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\bin\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
