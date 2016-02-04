@@ -1,0 +1,30 @@
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\logic1(creating any number of gates)\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\logic1(creating any number of gates)\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\logic1(creating any number of gates)\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
