@@ -35,6 +35,10 @@ namespace logic1
             AndPanel.Size = AND.Size;
             AndPanel.BackgroundImage = AND.BackgroundImage;
             AndPanel.BackgroundImageLayout = AND.BackgroundImageLayout;
+            AndPanel.Location = new Point(150, 150);
+            Controls.Add(AndPanel);
+
+           
 
         }
 
