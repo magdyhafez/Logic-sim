@@ -34,3 +34,4 @@ C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\obj\Debug\logic1.csprojR
 C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\obj\Debug\logic1.Form1.resources
 C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\obj\Debug\logic1.Properties.Resources.resources
 C:\Users\Magdy\Desktop\Logic sim\Magdy trial 2-2\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Logic Gates Project\Magdy trial 4\logic1\bin\Debug\logic1.exe.config
