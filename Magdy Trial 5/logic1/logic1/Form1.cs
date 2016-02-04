@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace logic1
 {
+   
     public partial class Form1 : Form
     {
         int x = 0, y = 0;
@@ -17,6 +18,7 @@ namespace logic1
         public Form1()
         {
             InitializeComponent();
+            bool x;
         }
        private void Form1_Load(object sender, EventArgs e)
         {
@@ -30,8 +32,9 @@ namespace logic1
 
         private void AND_Click(object sender, EventArgs e)
         {
-
+            //textBox1.Text = "False";
             Panel AndPanel = new Panel();
+            x = 1;
             AndPanel.Size = AND.Size;
             AndPanel.BackgroundImage = AND.BackgroundImage;
             AndPanel.BackgroundImageLayout = AND.BackgroundImageLayout;
@@ -70,6 +73,28 @@ namespace logic1
         private void NOT_Click(object sender, EventArgs e)
         {
             drawinglocation = "NOT";
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked && checkBox2.Checked && x == 1)
+                textBox1.Text = "True";
+            else
+                textBox1.Text = "False"; 
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+            if (checkBox1.Checked && checkBox2.Checked && x == 1)
+                textBox1.Text = "True";
+            else
+                textBox1.Text = "False";
         }
 
         private void Form1_MouseDown(object sender, MouseEventArgs e)
