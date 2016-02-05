@@ -33,12 +33,14 @@ namespace logic1
         private void AND_Click(object sender, EventArgs e)
         {
             //textBox1.Text = "False";
-            Panel AndPanel = new Panel();
-            x = 1;
-            AndPanel.Size = AND.Size;
-            AndPanel.BackgroundImage = AND.BackgroundImage;
-            AndPanel.BackgroundImageLayout = AND.BackgroundImageLayout;
-            AndPanel.Location = new Point(150, 150);
+           AndInterface AndPanel = new AndInterface();
+            /*  x = 1;
+              AndPanel.Size = AND.Size;
+              AndPanel.BackgroundImage = AND.BackgroundImage;
+              AndPanel.BackgroundImageLayout = AND.BackgroundImageLayout;
+              AndPanel.Location = new Point(150, 150);
+              Controls.Add(AndPanel);*/
+            AndPanel.Location = new Point(150, 150); 
             Controls.Add(AndPanel);
             
 
