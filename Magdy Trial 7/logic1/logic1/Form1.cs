@@ -40,11 +40,19 @@ namespace logic1
             AndPanel.BackgroundImageLayout = AND.BackgroundImageLayout;
             AndPanel.Location = new Point(150, 150);
             Controls.Add(AndPanel);
+            
+
+
+           
+
+
+            
+            
 
            
 
         }
-
+        private Point MouseDownLocation;
         private void OR_Click(object sender, EventArgs e)
         {
             drawinglocation = "OR";
@@ -100,6 +108,27 @@ namespace logic1
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+       private void panel1_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+                MouseDownLocation = e.Location;
+        }
+
+        private void panel1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                panel1.Left = e.X + panel1.Left - MouseDownLocation.X;
+                panel1.Top = e.Y + panel1.Top - MouseDownLocation.Y;
+
+            }
         }
 
         private void Form1_MouseDown(object sender, MouseEventArgs e)
