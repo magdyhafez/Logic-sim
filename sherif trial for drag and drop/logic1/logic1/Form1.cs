@@ -33,30 +33,7 @@ namespace logic1
           
         }
 
-        private void AND_Click(object sender, EventArgs e)
-        {
-            //textBox1.Text = "False";
-           AndInterface AndPanel = new AndInterface();
-            /*  x = 1;
-              AndPanel.Size = AND.Size;
-              AndPanel.BackgroundImage = AND.BackgroundImage;
-              AndPanel.BackgroundImageLayout = AND.BackgroundImageLayout;
-              AndPanel.Location = new Point(150, 150);
-              Controls.Add(AndPanel);*/
-            AndPanel.Location = new Point(150, 150); 
-            Controls.Add(AndPanel);
-            
-
-
-           
-
-
-            
-            
-
-           
-
-        }
+        
         private Point MouseDownLocation;
         private void OR_Click(object sender, EventArgs e)
         {
@@ -151,6 +128,7 @@ namespace logic1
              
                 this.Controls.Add(temp);
             }
+                
         }
 
         private void AND_MouseDown(object sender, MouseEventArgs e)
@@ -168,18 +146,18 @@ namespace logic1
             y = e.Y ;
             Graphics g = this.CreateGraphics();
             Pen p = new Pen(Color.DarkBlue);
-            if (drawinglocation == "AND")
-            {
-                x += 30;
-                g.DrawArc(p, x, y, 100, 80, -90, 180);
-                g.DrawLine(p, x + 50, y, x + 50, y + 80);
-                g.DrawLine(p, x, y + 20, x + 50, y + 20);
-                g.DrawLine(p, x, y + 60, x + 50, y + 60);
-                g.DrawLine(p, x + 100, y + 40, x + 120, y + 40);
+            //if (drawinglocation == "AND")
+            //{
+            //    x += 30;
+            //    g.DrawArc(p, x, y, 100, 80, -90, 180);
+            //    g.DrawLine(p, x + 50, y, x + 50, y + 80);
+            //    g.DrawLine(p, x, y + 20, x + 50, y + 20);
+            //    g.DrawLine(p, x, y + 60, x + 50, y + 60);
+            //    g.DrawLine(p, x + 100, y + 40, x + 120, y + 40);
 
-                p.Dispose();
-            }
-            else if (drawinglocation == "OR")
+            //    p.Dispose();
+            //}
+             if (drawinglocation == "OR")
             {
                 
                 g.DrawArc(p, x, y, 160, 70, -90, 180);

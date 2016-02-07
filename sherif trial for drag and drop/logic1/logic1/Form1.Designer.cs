@@ -56,9 +56,8 @@
             this.panel1.Controls.Add(this.XOR);
             this.panel1.Controls.Add(this.OR);
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(131, 440);
+            this.panel1.Size = new System.Drawing.Size(113, 358);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             this.panel1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
@@ -68,10 +67,9 @@
             // 
             this.NOT.BackgroundImage = global::logic1.Properties.Resources.Not_Logic_Functions_Digital_Electronics_clip_art_medium;
             this.NOT.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.NOT.Location = new System.Drawing.Point(3, 386);
-            this.NOT.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.NOT.Location = new System.Drawing.Point(3, 314);
             this.NOT.Name = "NOT";
-            this.NOT.Size = new System.Drawing.Size(103, 39);
+            this.NOT.Size = new System.Drawing.Size(88, 32);
             this.NOT.TabIndex = 6;
             this.NOT.Text = "NOT";
             this.NOT.UseVisualStyleBackColor = true;
@@ -81,24 +79,21 @@
             // 
             this.AND.BackgroundImage = global::logic1.Properties.Resources.And_Logic_Functions_Digital_Electronics_clip_art_medium;
             this.AND.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.AND.Location = new System.Drawing.Point(3, 4);
-            this.AND.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.AND.Location = new System.Drawing.Point(3, 3);
             this.AND.Name = "AND";
-            this.AND.Size = new System.Drawing.Size(103, 63);
+            this.AND.Size = new System.Drawing.Size(88, 51);
             this.AND.TabIndex = 0;
             this.AND.Text = "AND";
             this.AND.UseVisualStyleBackColor = true;
-            this.AND.Click += new System.EventHandler(this.AND_Click);
             this.AND.MouseDown += new System.Windows.Forms.MouseEventHandler(this.AND_MouseDown);
             // 
             // XNOR
             // 
             this.XNOR.BackgroundImage = global::logic1.Properties.Resources.Xnor_Logic_Functions_Digital_Electronics_clip_art_medium;
             this.XNOR.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.XNOR.Location = new System.Drawing.Point(3, 330);
-            this.XNOR.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.XNOR.Location = new System.Drawing.Point(3, 268);
             this.XNOR.Name = "XNOR";
-            this.XNOR.Size = new System.Drawing.Size(103, 49);
+            this.XNOR.Size = new System.Drawing.Size(88, 40);
             this.XNOR.TabIndex = 5;
             this.XNOR.Text = "XNOR";
             this.XNOR.UseVisualStyleBackColor = true;
@@ -108,10 +103,9 @@
             // 
             this.NOR.BackgroundImage = global::logic1.Properties.Resources.Nor_Logic_Functions_Digital_Electronics_clip_art_medium;
             this.NOR.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.NOR.Location = new System.Drawing.Point(3, 265);
-            this.NOR.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.NOR.Location = new System.Drawing.Point(3, 215);
             this.NOR.Name = "NOR";
-            this.NOR.Size = new System.Drawing.Size(103, 58);
+            this.NOR.Size = new System.Drawing.Size(88, 47);
             this.NOR.TabIndex = 4;
             this.NOR.Text = "NOR";
             this.NOR.UseVisualStyleBackColor = true;
@@ -121,10 +115,9 @@
             // 
             this.NAND.BackgroundImage = global::logic1.Properties.Resources.Nand_Logic_Functions_Digital_Electronics_clip_art_medium;
             this.NAND.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.NAND.Location = new System.Drawing.Point(3, 206);
-            this.NAND.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.NAND.Location = new System.Drawing.Point(3, 167);
             this.NAND.Name = "NAND";
-            this.NAND.Size = new System.Drawing.Size(103, 52);
+            this.NAND.Size = new System.Drawing.Size(88, 42);
             this.NAND.TabIndex = 3;
             this.NAND.Text = "NAND";
             this.NAND.UseVisualStyleBackColor = true;
@@ -134,10 +127,9 @@
             // 
             this.XOR.BackgroundImage = global::logic1.Properties.Resources.Xor_Logic_Functions_Digital_Electronics_clip_art_medium;
             this.XOR.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.XOR.Location = new System.Drawing.Point(3, 146);
-            this.XOR.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.XOR.Location = new System.Drawing.Point(3, 119);
             this.XOR.Name = "XOR";
-            this.XOR.Size = new System.Drawing.Size(103, 52);
+            this.XOR.Size = new System.Drawing.Size(88, 42);
             this.XOR.TabIndex = 2;
             this.XOR.Text = "XOR";
             this.XOR.UseVisualStyleBackColor = true;
@@ -147,10 +139,9 @@
             // 
             this.OR.BackgroundImage = global::logic1.Properties.Resources.Or_Logic_Functions_Digital_Electronics_clip_art_medium;
             this.OR.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.OR.Location = new System.Drawing.Point(3, 74);
-            this.OR.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.OR.Location = new System.Drawing.Point(3, 60);
             this.OR.Name = "OR";
-            this.OR.Size = new System.Drawing.Size(103, 57);
+            this.OR.Size = new System.Drawing.Size(88, 46);
             this.OR.TabIndex = 1;
             this.OR.Text = "OR";
             this.OR.UseVisualStyleBackColor = true;
@@ -159,10 +150,9 @@
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(26, 20);
-            this.checkBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.checkBox1.Location = new System.Drawing.Point(22, 16);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(38, 21);
+            this.checkBox1.Size = new System.Drawing.Size(32, 17);
             this.checkBox1.TabIndex = 1;
             this.checkBox1.Text = "1";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -171,10 +161,9 @@
             // checkBox2
             // 
             this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(152, 20);
-            this.checkBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.checkBox2.Location = new System.Drawing.Point(130, 16);
             this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(38, 21);
+            this.checkBox2.Size = new System.Drawing.Size(32, 17);
             this.checkBox2.TabIndex = 2;
             this.checkBox2.Text = "2";
             this.checkBox2.UseVisualStyleBackColor = true;
@@ -182,10 +171,9 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(546, 70);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textBox1.Location = new System.Drawing.Point(468, 57);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(116, 24);
+            this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 3;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -193,22 +181,20 @@
             // 
             this.panel2.Controls.Add(this.checkBox1);
             this.panel2.Controls.Add(this.checkBox2);
-            this.panel2.Location = new System.Drawing.Point(197, 15);
-            this.panel2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.panel2.Location = new System.Drawing.Point(169, 12);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(233, 57);
+            this.panel2.Size = new System.Drawing.Size(200, 46);
             this.panel2.TabIndex = 4;
             // 
             // Form1
             // 
             this.AllowDrop = true;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(687, 447);
+            this.ClientSize = new System.Drawing.Size(589, 363);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Text = "logic gates";
             this.Load += new System.EventHandler(this.Form1_Load);

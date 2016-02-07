@@ -67,3 +67,13 @@ C:\Users\Aka\Desktop\Magdy Trial 7\logic1\logic1\obj\Debug\logic1.pdb
 C:\Users\Aka\Desktop\sherif trial for drag and drop\logic1\logic1\bin\Debug\logic1.exe.config
 C:\Users\Aka\Desktop\sherif trial for drag and drop\logic1\logic1\obj\Debug\logic1.exe
 C:\Users\Aka\Desktop\sherif trial for drag and drop\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Logic Gates Project\sherif trial for drag and drop\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\Logic Gates Project\sherif trial for drag and drop\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\Logic Gates Project\sherif trial for drag and drop\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Logic Gates Project\sherif trial for drag and drop\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Logic Gates Project\sherif trial for drag and drop\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\Logic Gates Project\sherif trial for drag and drop\logic1\logic1\obj\Debug\logic1.AndInterface.resources
+C:\Users\Dell\Desktop\Logic Gates Project\sherif trial for drag and drop\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Logic Gates Project\sherif trial for drag and drop\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Logic Gates Project\sherif trial for drag and drop\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\Logic Gates Project\sherif trial for drag and drop\logic1\logic1\obj\Debug\logic1.pdb
