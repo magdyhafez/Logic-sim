@@ -1,0 +1,1 @@
+all gates can be drawn and can be moved anywhere on the form and each gate logic can be simulated
