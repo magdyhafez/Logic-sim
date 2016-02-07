@@ -7,17 +7,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.VisualBasic.PowerPacks;  
 
 namespace logic1
 {
+    
     public partial class Form1 : Form
     {
+        private Point MouseDownLocation;
+
+        int x = 0, y = 0;
+        string drawinglocation ;
         public Form1()
         {
             InitializeComponent();
+         
         }
-
-        private void Form1_Load(object sender, EventArgs e)
+       private void Form1_Load(object sender, EventArgs e)
         {
 
         }
@@ -26,105 +32,152 @@ namespace logic1
         {
           
         }
-
         private void AND_Click(object sender, EventArgs e)
         {
-            Graphics g = this.CreateGraphics();
-            int w = this.ClientSize.Width;
-            int h = this.ClientSize.Height;
-            Pen p = new Pen(Color.DarkBlue);
-            g.DrawArc(p, w / 2 , h / 2 , 100, 80, -90, 180);
-            g.DrawLine(p, w / 2 + 50, h / 2  , w/2 +50 , h/2 +80);
-            g.DrawLine(p, w / 2 , h / 2 +20, w / 2 + 50, h / 2 + 20);
-            g.DrawLine(p, w / 2 , h / 2+60, w / 2 + 50, h / 2 + 60);
-            g.DrawLine(p, w / 2 + 100, h / 2 +40, w / 2 + 120, h / 2 + 40);
 
-            p.Dispose();
-            
+            drawinglocation = "AND";
+
         }
 
         private void OR_Click(object sender, EventArgs e)
         {
-            Graphics g = this.CreateGraphics();
-            int w = this.ClientSize.Width;
-            int h = this.ClientSize.Height;
-            Pen p = new Pen(Color.DarkBlue);
-  
-            g.DrawArc(p, w / 2, h / 2, 160, 70, -90, 180);
-            g.DrawArc(p, w / 2+40, h / 2, 80, 70, -90, 180);
-            g.DrawLine(p, w / 2 +63, h / 2 + 15, w / 2 + 113, h / 2 + 15);
-            g.DrawLine(p, w / 2+63, h / 2 + 55, w / 2 + 113, h / 2 + 55);
-            g.DrawLine(p, w / 2 +160, h / 2 +35, w / 2 +190, h / 2+35 );
-            p.Dispose();
+            drawinglocation = "OR";
         }
 
         private void NOR_Click(object sender, EventArgs e)
         {
-            Graphics g = this.CreateGraphics();
-            int w = this.ClientSize.Width;
-            int h = this.ClientSize.Height;
-            Pen p = new Pen(Color.DarkBlue);
-
-            g.DrawArc(p, w / 2, h / 2, 160, 70, -90, 180);
-            g.DrawArc(p, w / 2 + 40, h / 2, 80, 70, -90, 180);
-            g.DrawLine(p, w / 2 + 63, h / 2 + 15, w / 2 + 113, h / 2 + 15);
-            g.DrawLine(p, w / 2 + 63, h / 2 + 55, w / 2 + 113, h / 2 + 55);
-            g.DrawEllipse(Pens.Blue, w / 2 + 160, h / 2 + 30, 10, 10);
-            g.DrawLine(p, w / 2 + 170, h / 2 + 35, w / 2 + 190, h / 2 + 35);
-            p.Dispose();
+             drawinglocation = "NOR";
         }
 
         private void XOR_Click(object sender, EventArgs e)
         {
-            Graphics g = this.CreateGraphics();
-            int w = this.ClientSize.Width;
-            int h = this.ClientSize.Height;
-            Pen p = new Pen(Color.DarkBlue);
-
-            g.DrawArc(p, w / 2, h / 2, 160, 70, -90, 180);
-            g.DrawArc(p, w / 2 + 40, h / 2, 80, 70, -90, 180);
-            g.DrawArc(p, w / 2 + 25, h / 2, 80, 70, -90, 180);
-            g.DrawLine(p, w / 2 + 40, h / 2 + 15, w / 2 + 97, h / 2 + 15);
-            g.DrawLine(p, w / 2 + 40, h / 2 + 55, w / 2 + 97, h / 2 + 55);
-            g.DrawLine(p, w / 2 + 160, h / 2 + 35, w / 2 + 190, h / 2 + 35);
-            p.Dispose();
+           drawinglocation = "XOR";
         }
 
         private void XNOR_Click(object sender, EventArgs e)
         {
-            Graphics g = this.CreateGraphics();
-            int w = this.ClientSize.Width;
-            int h = this.ClientSize.Height;
-            Pen p = new Pen(Color.DarkBlue);
-
-            g.DrawArc(p, w / 2, h / 2, 160, 70, -90, 180);
-            g.DrawArc(p, w / 2 + 40, h / 2, 80, 70, -90, 180);
-            g.DrawArc(p, w / 2 + 25, h / 2, 80, 70, -90, 180);
-            g.DrawLine(p, w / 2 + 40, h / 2 + 15, w / 2 + 97, h / 2 + 15);
-            g.DrawLine(p, w / 2 + 40, h / 2 + 55, w / 2 + 97, h / 2 + 55);
-            g.DrawEllipse(Pens.Blue, w / 2 + 160, h / 2 + 30, 10, 10);
-            g.DrawLine(p, w / 2 + 170, h / 2 + 35, w / 2 + 190, h / 2 + 35);            
-            p.Dispose();
+            drawinglocation = "XNOR";
         }
 
         private void NAND_Click(object sender, EventArgs e)
         {
-            Graphics g = this.CreateGraphics();
-            int w = this.ClientSize.Width;
-            int h = this.ClientSize.Height;
-            Pen p = new Pen(Color.DarkBlue);
-            g.DrawArc(p, w / 2, h / 2, 100, 80, -90, 180);
-            g.DrawLine(p, w / 2 + 50, h / 2, w / 2 + 50, h / 2 + 80);
-            g.DrawLine(p, w / 2, h / 2 + 20, w / 2 + 50, h / 2 + 20);
-            g.DrawLine(p, w / 2, h / 2 + 60, w / 2 + 50, h / 2 + 60);
-
-            g.DrawEllipse(Pens.Blue, w / 2 + 100, h / 2 + 35, 10, 10);
-            g.DrawLine(p, w / 2 + 110, h / 2 + 40, w / 2 + 150, h / 2 + 40);
-            //g.DrawLine(p, w / 2 + 100, h / 2 + 40, w / 2 + 120, h / 2 + 40);
-
-            p.Dispose();
+            drawinglocation = "NAND";
         }
 
+        private void NOT_Click(object sender, EventArgs e)
+        {
+            drawinglocation = "NOT";
+        }
+
+        private void Form1_MouseDown(object sender, MouseEventArgs e)
+        {
+            base.OnMouseMove(e);
+            x = e.X  ;
+            y = e.Y ;
+            Graphics g = this.CreateGraphics();
+            Pen p = new Pen(Color.DarkBlue);
+            if (drawinglocation == "AND")
+            {
+                 AndInterface AndPanel = new AndInterface();
+                AndPanel.Location = new Point(x,y);
+                 Controls.Add(AndPanel);
+            }
+            else if (drawinglocation == "OR")
+            {
+                OrInterface AndPanel = new OrInterface();
+                AndPanel.Location = new Point(x, y);
+                Controls.Add(AndPanel);
+            }
+            else if (drawinglocation == "NAND")
+            {
+                NandInterface AndPanel = new NandInterface();
+                AndPanel.Location = new Point(x, y);
+                Controls.Add(AndPanel);
+            }
+            else if (drawinglocation == "NOR")
+            {
+                NorInterface NORPanel = new NorInterface();
+                NORPanel.Location = new Point(x, y);
+                Controls.Add(NORPanel);
+            }
+            else if (drawinglocation == "XOR")
+            {
+                XorInterface XORPanel = new XorInterface();
+                XORPanel.Location = new Point(x, y);
+                Controls.Add(XORPanel);
+            }
+            else if (drawinglocation == "XNOR")
+            {
+                XnorInterface XNORPanel = new XnorInterface();
+                XNORPanel.Location = new Point(x, y);
+                Controls.Add(XNORPanel);
+            }
+            else if (drawinglocation == "NOT")
+            {
+                NotInterface NOTPanel = new NotInterface();
+                NOTPanel.Location = new Point(x, y);
+                Controls.Add(NOTPanel);
+            }
+            else if (drawinglocation == "switch")
+            {
+                input Addswitch = new input();
+                Addswitch.Location = new Point(x, y);
+                Controls.Add(Addswitch);
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            drawinglocation = "none";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            drawinglocation = "switch";
+        }
+
+        private void panel1_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+                MouseDownLocation = e.Location;
+        }
+
+        private void panel1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                panel1.Left = e.X + panel1.Left - MouseDownLocation.X;
+                panel1.Top = e.Y + panel1.Top - MouseDownLocation.Y;
+
+            }
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        
+
+      
+        
+
+      
+        
+        
+        
+
+
+        
+        
+
+      
+
+        
+
+        
+
+        
        
 
     

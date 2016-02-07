@@ -32,6 +32,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Microsoft Visual Basic 2005 Power Packs\3.0\Microsoft.VisualBasic.PowerPacks.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -44,16 +49,106 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AndInterface  1.1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AndInterface  1.1.Designer.cs">
+      <DependentUpon>AndInterface  1.1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AndInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AndInterface.Designer.cs">
+      <DependentUpon>AndInterface.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="input.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="input.Designer.cs">
+      <DependentUpon>input.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NandInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NandInterface.Designer.cs">
+      <DependentUpon>NandInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Node.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Node.Designer.cs">
+      <DependentUpon>Node.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NorInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NorInterface.Designer.cs">
+      <DependentUpon>NorInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NotInterface.Designer.cs">
+      <DependentUpon>NotInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OrInterface.Designer.cs">
+      <DependentUpon>OrInterface.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="switch_input.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="switch_input.Designer.cs">
+      <DependentUpon>switch_input.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XnorInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="XnorInterface.Designer.cs">
+      <DependentUpon>XnorInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XorInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="XorInterface.Designer.cs">
+      <DependentUpon>XorInterface.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AndInterface  1.1.resx">
+      <DependentUpon>AndInterface  1.1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AndInterface.resx">
+      <DependentUpon>AndInterface.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="input.resx">
+      <DependentUpon>input.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NandInterface.resx">
+      <DependentUpon>NandInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Node.resx">
+      <DependentUpon>Node.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NorInterface.resx">
+      <DependentUpon>NorInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotInterface.resx">
+      <DependentUpon>NotInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrInterface.resx">
+      <DependentUpon>OrInterface.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +160,15 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="switch_input.resx">
+      <DependentUpon>switch_input.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XnorInterface.resx">
+      <DependentUpon>XnorInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XorInterface.resx">
+      <DependentUpon>XorInterface.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
