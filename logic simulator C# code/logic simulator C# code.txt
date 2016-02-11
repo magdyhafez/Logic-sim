@@ -1,0 +1,217 @@
+using System;
+
+public static class GlobalMembersCode
+{
+	static int Main()
+	{
+		Simulator s = new Simulator();
+		s.ParseFile("C:\\Hazem\\Cir1.txt");
+		s.RunSimulation();
+		s.PrintAll();
+	}
+}
+
+public class Node
+{
+	private string Name;
+	private short Value;
+	public void SetName(string n)
+	{
+		Name = n;
+	}
+	public string GetName()
+	{
+		return Name;
+	}
+	public void SetValue(short v)
+	{
+		Value = v;
+	}
+	public short GetValue()
+	{
+		return Value;
+	}
+}
+
+
+
+
+public class Gate
+{
+	protected Node In1;
+	protected Node In2;
+	protected Node Out1;
+	public void SetIn1(Node n)
+	{
+		In1 = n;
+	}
+	public Node GetIn1()
+	{
+		return In1;
+	}
+	public void SetIn2(Node n)
+	{
+		In2 = n;
+	}
+	public Node GetIn2()
+	{
+		return In2;
+	}
+	public void SetOut1(Node n)
+	{
+		Out1 = n;
+	}
+	public Node GetOut1()
+	{
+		return Out1;
+	}
+
+	public virtual void CalcOut()
+	{
+
+	}
+}
+
+public class AndGate : Gate
+{
+	public new void CalcOut()
+	{
+		if ((In1.GetValue() == 1) && (In2.GetValue() == 1))
+		{
+			Out1.SetValue(1);
+		}
+		else
+		{
+			Out1.SetValue(0);
+		}
+	}
+}
+
+public class OrGate : Gate
+{
+	public new void CalcOut()
+	{
+		if ((In1.GetValue() == 1) || (In2.GetValue() == 1))
+		{
+			Out1.SetValue(1);
+		}
+		else
+		{
+			Out1.SetValue(0);
+		}
+	}
+}
+
+
+public class NandGate : Gate
+{
+	public new void CalcOut()
+	{
+		if ((In1.GetValue() == 1) && (In2.GetValue() == 1))
+		{
+			Out1.SetValue(0);
+		}
+		else
+		{
+			Out1.SetValue(1);
+		}
+	}
+}
+
+public class Simulator
+{
+	private Gate[] Gates = new Gate[1000];
+	private int NGates;
+
+	private Node[] Nodes = new Node[2000];
+	private int NNodes;
+
+	public Simulator()
+	{
+		NGates = 0;
+		NNodes = 0;
+	}
+
+	public void RunSimulation()
+	{
+		for (int i = 0; i < NGates; i++)
+		{
+			Gates[i].CalcOut();
+		}
+	}
+
+	public void ParseFile(string filename)
+	{
+		ifstream myfile = new ifstream();
+		myfile.open(filename);
+
+		while (!myfile.eof())
+		{
+			string s;
+			myfile >> s;
+			if (s == "AND")
+			{
+				string n1;
+				string n2;
+				string n3;
+				myfile >> n1 >> n2 >> n3;
+
+				Gates[NGates] = new AndGate();
+
+				Gates[NGates].SetIn1(FindNode(n1));
+				Gates[NGates].SetIn2(FindNode(n2));
+				Gates[NGates].SetOut1(FindNode(n3));
+				NGates++;
+			}
+			else if (s == "OR")
+			{
+				string n1;
+				string n2;
+				string n3;
+				myfile >> n1 >> n2 >> n3;
+
+				Gates[NGates] = new OrGate();
+
+				Gates[NGates].SetIn1(FindNode(n1));
+				Gates[NGates].SetIn2(FindNode(n2));
+				Gates[NGates].SetOut1(FindNode(n3));
+				NGates++;
+			}
+			else if (s == "VAL")
+			{
+				string n1;
+				short v;
+				myfile >> n1 >> v;
+				FindNode(n1).SetValue(v);
+			}
+
+		}
+		myfile.close();
+	}
+
+	public Node FindNode(string n1)
+	{
+		for (int i = 0; i < NNodes; i++)
+		{
+			if (Nodes[i].GetName() == n1)
+			{
+				return Nodes[i];
+			}
+		}
+		Nodes[NNodes] = new Node();
+		Nodes[NNodes].SetName(n1);
+		NNodes++;
+		return Nodes[NNodes - 1];
+	}
+	public void PrintAll()
+	{
+		for (int i = 0; i < NNodes; i++)
+		{
+			Console.Write(Nodes[i].GetName());
+			Console.Write(" ");
+			Console.Write(Nodes[i].GetValue());
+			Console.Write("\n");
+		}
+	}
+
+}
