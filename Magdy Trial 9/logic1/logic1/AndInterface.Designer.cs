@@ -118,6 +118,7 @@
             this.DoubleBuffered = true;
             this.Name = "AndInterface";
             this.Size = new System.Drawing.Size(190, 150);
+            this.Load += new System.EventHandler(this.AndInterface_Load);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.AndInterface_MouseDown);
             this.MouseEnter += new System.EventHandler(this.AndInterface_MouseEnter);
             this.MouseLeave += new System.EventHandler(this.AndInterface_MouseLeave);

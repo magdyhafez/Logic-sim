@@ -13,6 +13,8 @@ namespace logic1
     
     public partial class Form1 : Form
     {
+        Dictionary<int, AndInterface> Gates = new Dictionary<int,AndInterface>(); 
+        int j=0;
         private Point MouseDownLocation;
         public Form1()
         {
@@ -56,8 +58,10 @@ namespace logic1
                 // temp is the instance
                 AndInterface temp = (AndInterface)e.Data.GetData(typeof(AndInterface)); 
                 temp.Location = new Point(e.X - this.Location.X - temp.Width / 2, e.Y - this.Location.Y - temp.Height / 2);
-
+                temp.i = j; 
                 this.Controls.Add(temp);
+                 Gates.Add(temp.i, temp);
+                  j++;
             }
             else if (e.Data.GetData(typeof(NandInterface)) is NandInterface)
             {

@@ -12,6 +12,7 @@ namespace logic1
 {
     public partial class AndInterface : UserControl
     {
+        public int i;
         private Point MouseDownLocation;
         public AndInterface()
         {
@@ -61,7 +62,9 @@ namespace logic1
             this.BorderStyle = BorderStyle.None; 
         }
 
- 
-        
+        private void AndInterface_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
