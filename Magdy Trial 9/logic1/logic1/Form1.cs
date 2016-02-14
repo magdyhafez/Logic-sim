@@ -53,13 +53,15 @@ namespace logic1
         {
             if (e.Data.GetData(typeof(AndInterface)) is AndInterface)
             {
-                AndInterface temp = (AndInterface)e.Data.GetData(typeof(AndInterface));
+                // temp is the instance
+                AndInterface temp = (AndInterface)e.Data.GetData(typeof(AndInterface)); 
                 temp.Location = new Point(e.X - this.Location.X - temp.Width / 2, e.Y - this.Location.Y - temp.Height / 2);
 
                 this.Controls.Add(temp);
             }
             else if (e.Data.GetData(typeof(NandInterface)) is NandInterface)
             {
+                // temp is the instance
                 NandInterface temp = (NandInterface)e.Data.GetData(typeof(NandInterface));
                 temp.Location = new Point(e.X - this.Location.X - temp.Width / 2, e.Y - this.Location.Y - temp.Height / 2);
 
@@ -67,6 +69,7 @@ namespace logic1
             }
             else if (e.Data.GetData(typeof(OrInterface)) is OrInterface)
             {
+                // temp is the instance
                 OrInterface temp = (OrInterface)e.Data.GetData(typeof(OrInterface));
                 temp.Location = new Point(e.X - this.Location.X - temp.Width / 2, e.Y - this.Location.Y - temp.Height / 2);
 
@@ -74,6 +77,7 @@ namespace logic1
             }
             else if (e.Data.GetData(typeof(NorInterface)) is NorInterface)
             {
+                // temp is the instance
                 NorInterface temp = (NorInterface)e.Data.GetData(typeof(NorInterface));
                 temp.Location = new Point(e.X - this.Location.X - temp.Width / 2, e.Y - this.Location.Y - temp.Height / 2);
 
@@ -81,6 +85,7 @@ namespace logic1
             }
             else if (e.Data.GetData(typeof(XorInterface)) is XorInterface)
             {
+                // temp is the instance
                 XorInterface temp = (XorInterface)e.Data.GetData(typeof(XorInterface));
                 temp.Location = new Point(e.X - this.Location.X - temp.Width / 2, e.Y - this.Location.Y - temp.Height / 2);
 
@@ -88,6 +93,7 @@ namespace logic1
             }
             else if (e.Data.GetData(typeof(XnorInterface)) is XnorInterface)
             {
+                // temp is the instance
                 XnorInterface temp = (XnorInterface)e.Data.GetData(typeof(XnorInterface));
                 temp.Location = new Point(e.X - this.Location.X - temp.Width / 2, e.Y - this.Location.Y - temp.Height / 2);
 
@@ -95,6 +101,7 @@ namespace logic1
             }
             else if (e.Data.GetData(typeof(NotInterface)) is NotInterface)
             {
+                // temp is the instance
                 NotInterface temp = (NotInterface)e.Data.GetData(typeof(NotInterface));
                 temp.Location = new Point(e.X - this.Location.X - temp.Width / 2, e.Y - this.Location.Y - temp.Height / 2);
 
@@ -102,6 +109,7 @@ namespace logic1
             }
             else if (e.Data.GetData(typeof(input)) is input)
             {
+                // temp is the instance
                 input temp = (input)e.Data.GetData(typeof(input));
                 temp.Location = new Point(e.X - this.Location.X - temp.Width / 2, e.Y - this.Location.Y - temp.Height / 2);
 
