@@ -177,5 +177,10 @@ namespace logic1
                 DoDragDrop(new input(), DragDropEffects.Copy);
             }
         }
-}
+
+        private void AND_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

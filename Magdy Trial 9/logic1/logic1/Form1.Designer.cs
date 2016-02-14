@@ -92,6 +92,7 @@
             this.AND.TabIndex = 0;
             this.AND.Text = "AND";
             this.AND.UseVisualStyleBackColor = true;
+            this.AND.Click += new System.EventHandler(this.AND_Click);
             this.AND.MouseDown += new System.Windows.Forms.MouseEventHandler(this.AND_MouseDown);
             // 
             // XNOR
