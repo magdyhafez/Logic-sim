@@ -264,11 +264,11 @@ namespace logic1
         {
             if (MessageBox.Show("Do you want to exit?","Logic Gates",
                 MessageBoxButtons.OKCancel,MessageBoxIcon.Question)
-                == System.Windows.Forms.DialogResult.OK)
+                == DialogResult.OK)
             {
                  Application.Exit();
             }
-            else
+            else 
             {
                 e.Cancel = true;
             }
