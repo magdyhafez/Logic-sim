@@ -183,7 +183,8 @@ namespace logic1
         Point ptTo, ptFrom;
         private void button2_Click(object sender, EventArgs e)
         {
-            connect_clk = true;
+            Controls.Clear();
+            Controls.Add(panel1);
         }
 
         private void Form1_MouseDown(object sender, MouseEventArgs e)
@@ -261,7 +262,7 @@ namespace logic1
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (MessageBox.Show("Do you want to exit?","Your Application Name",
+            if (MessageBox.Show("Do you want to exit?","Logic Gates",
                 MessageBoxButtons.OKCancel,MessageBoxIcon.Question)
                 == System.Windows.Forms.DialogResult.OK)
             {
