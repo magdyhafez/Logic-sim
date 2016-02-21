@@ -53,7 +53,7 @@ namespace logic1
             value = radioButton1.Checked;
             x1 = radioButton1.Location.X+this.Location.X;
             y1 = radioButton1.Location.Y+this.Location.Y;
-            radioButton1.Visible = false; 
+            //radioButton1.Visible = false; 
         }
 
         private void node1_MouseDoubleClick(object sender, MouseEventArgs e)
@@ -68,7 +68,17 @@ namespace logic1
             ConnLine.StartPoint = new System.Drawing.Point(x1, y1);
             ConnLine.EndPoint = new System.Drawing.Point(x2, y2);
             ConnLine.BringToFront();
-            checkBox1.Visible = false;          
+           // checkBox1.Visible = false;          
+
+        }
+
+        private void node3_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GateInterface_Load(object sender, EventArgs e)
+        {
 
         }
 
@@ -89,7 +99,7 @@ namespace logic1
             ConnLine.StartPoint = new System.Drawing.Point(x1, y1);
             ConnLine.EndPoint = new System.Drawing.Point(x2, y2);
             ConnLine.BringToFront();
-            checkBox2.Visible = false;
+         //   checkBox2.Visible = false;
 
         }
 
