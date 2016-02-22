@@ -1,0 +1,230 @@
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Documents\Visual Studio 2012\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\logic1(creating any number of gates)\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\logic1(creating any number of gates)\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\logic1(creating any number of gates)\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Magdy\Desktop\Logic Repo\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Magdy\Desktop\Logic GitHub\Logic-sim\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Magdy\Desktop\Logic GitHub\Logic-sim\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic GitHub\Logic-sim\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic GitHub\Logic-sim\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic GitHub\Logic-sim\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic GitHub\Logic-sim\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Magdy\Desktop\Logic GitHub\Logic-sim\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Magdy\Desktop\Logic GitHub\Logic-sim\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Magdy\Desktop\Logic GitHub\Logic-sim\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Logic Gates Project\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\Logic Gates Project\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\Logic Gates Project\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Logic Gates Project\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\Logic Gates Project\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Logic Gates Project\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Logic Gates Project\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\Logic Gates Project\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\Magdy Trial 5\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Magdy Trial 5\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.AndInterface.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.switch_input.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.Node.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.AndInterface__1.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.input.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.OrInterface.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.NandInterface.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.NorInterface.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.XorInterface.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.XnorInterface.resources
+C:\Users\Dell\Desktop\Mohmed (all gates  drawn on panel)\logic1\logic1\obj\Debug\logic1.NotInterface.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\logic1\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\logic1\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.AndInterface__1.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.AndInterface.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.input.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.NandInterface.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.Node.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.NorInterface.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.NotInterface.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.OrInterface.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.switch_input.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.XnorInterface.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.XorInterface.resources
+C:\Users\Dell\Desktop\logic1\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.AndInterface__1.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.AndInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.input.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.NandInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.Node.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.NorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.NotInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.OrInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.switch_input.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.XnorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.XorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.GateInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.AndInterface__1.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.AndInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.GateInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.input.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.NandInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.Node.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.NorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.NotInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.OrInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.switch_input.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.XnorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.XorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic1 - Copy\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.AndInterface__1.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.AndInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.GateInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.input.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.NandInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.Node.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.NorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.NotInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.OrInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.switch_input.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.XnorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.XorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - Copy\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.AndInterface__1.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.AndInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.GateInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.input.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.NandInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.Node.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.NorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.NotInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.OrInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.switch_input.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.XnorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.XorInterface.resources
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\Drag and Drop and moving anywhere\logic_final_work - vesrion 2 - Copy\logic1\bin\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\bin\Debug\logic1.exe.config
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\bin\Debug\logic1.exe
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\bin\Debug\logic1.pdb
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.AndInterface__1.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.AndInterface.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.GateInterface.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.input.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.NandInterface.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.Node.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.NorInterface.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.NotInterface.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.OrInterface.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.switch_input.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.XnorInterface.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.XorInterface.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\obj\Debug\logic1.Wire.resources
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Magdy\Desktop\Logic-sim\Magdy Trial 10\logic1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\bin\Debug\logic1.exe
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\bin\Debug\logic1.pdb
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.AndInterface__1.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.AndInterface.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.Form1.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.GateInterface.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.input.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.NandInterface.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.Node.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.NorInterface.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.NotInterface.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.OrInterface.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.switch_input.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.Wire.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.XnorInterface.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.XorInterface.resources
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\Magdy Trial 10\logic1\obj\Debug\logic1.pdb
+C:\Users\Dell\Desktop\To be delivered\Final_version\logic1\bin\Debug\logic1.exe.config
+C:\Users\Dell\Desktop\To be delivered\Final_version\logic1\obj\Debug\logic1.exe
+C:\Users\Dell\Desktop\To be delivered\Final_version\logic1\obj\Debug\logic1.pdb
